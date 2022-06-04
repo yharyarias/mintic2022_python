@@ -1,0 +1,6 @@
+mi_tupla = ()
+print(type(mi_tupla))
+(5,6,8,12)
+('hola', 'tripulantes')
+(1.5, 25.06, 13.5)
+('@', '*', '-')
